@@ -1,0 +1,5 @@
+S001,Jane Doe,20
+S002,John Smith,22
+S003,Alice Johnson,19
+S004,Bob Lee,21
+S005,Maria Garcia,23
